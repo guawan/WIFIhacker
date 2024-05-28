@@ -3,7 +3,9 @@
 
 ### **準備字典**
 你可以在 https://github.com/conwnet/wpa-dictionary 獲取字典
+
 下載完成後需要把字典名改成password.txt
+
 然後把字典放在跟WIFI破解程式同一個目錄
 
 ### **使用方式**
