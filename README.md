@@ -18,3 +18,6 @@
 ![Image](https://github.com/users/0402Siesta0402/projects/2/assets/126928193/96a5ffb2-4498-4294-9903-78115385eda3)
 
 4.按下ENTER開始破解!
+
+### **問題回報**
+有任何問題或者新功能歡迎告訴我
