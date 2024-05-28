@@ -1,6 +1,10 @@
 # WIFIhacker
 這個程式是一個用於破解附近 WiFi 的工具，它可以查看附近WIFI的SSID、訊號強度、MAC地址，並且可以使用密碼字典來實現破解WIFI密碼的功能。
 
+### **準備字典**
+你可以在 https://github.com/conwnet/wpa-dictionary 獲取字典
+下載完成後需要把字典名改成password.txt
+然後把字典放在跟WIFI破解程式同一個目錄
 
 ### **使用方式**
 1.在文件目錄下打開CMD並且輸入`pip install -r requirements.txt`
